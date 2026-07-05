@@ -81,6 +81,6 @@ Demonstrar conhecimentos em:
 
 # 👨‍💻 Autor
 
-Valdenor Ferreira
+Valdenor Aquino
 
 Projeto desenvolvido durante os estudos em Engenharia de Dados na DIO.
